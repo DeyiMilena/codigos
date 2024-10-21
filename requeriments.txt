@@ -1,0 +1,4 @@
+asgiref=3.8.1
+Dango=5.1.2
+sqlparse=0.5.1
+tzdata=2824.2
